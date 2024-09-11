@@ -1,0 +1,44 @@
+ingredient_id,name,type
+1,Tomato Sauce,sauce
+2,Mozzarella,cheese
+3,Olives,vegetable
+4,Mushrooms,mushroom
+5,Pepperoni,meat
+6,Chicken,meat
+7,Tomatoes,vegetable
+8,BBQ Sauce,sauce
+9,Pesto,sauce
+10,Onions,vegetable
+11,Basil,vegetable
+12,Bell Peppers,vegetable
+13,Pineapple,fruit
+14,Ham,meat
+15,Ricotta,cheese
+16,Parmesan,cheese
+17,Gorgonzola,cheese
+18,Feta,cheese
+19,Spinach,vegetable
+20,Artichoke,vegetable
+21,Cheddar,cheese
+22,Olive oil,oil
+23,Black Pepper,seasoning
+24,Balsamic vinegar,dressing
+25,Lettuce,vegetable
+26,Croutons,bread
+27,Caesar dressing,dressing
+28,Arugula,vegetable
+29,Ciabatta,bread
+30,Cucumbers,vegetable
+31,Red wine vinegar,dressing
+32,Spaghetti,pasta
+33,Broccoli,vegetable
+34,Garlic,vegetable
+35,Fusilli,pasta
+36,Pine nuts,nuts
+37,Bacon,meat
+38,Chicken Eggs,eggs
+39,Fettuccine pasta,pasta
+40,Butter,dairy
+41,Heavy cream,dairy
+42,Lasagna noodles,pasta
+43,Ground beef,meat
