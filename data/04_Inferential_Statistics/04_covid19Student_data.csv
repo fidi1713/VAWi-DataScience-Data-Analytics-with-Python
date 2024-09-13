@@ -1,0 +1,211 @@
+﻿StudentID,Age,Gender,Education,DuringCovidMonthlyIncome,BeforeCovidMonthlyIncome,MaritalStatus,NegativelyAffected,LifeStyle,BeforeStudyDuration,DuringStudyDuration,ProfessionalExam,ParcticalEducation,LectureQuality,MethodofLeraning,Alternativetophysical exam,ClassEngagement,RuralArea,SocailRelationship,RemoteTeaching,ResearchActivity
+1,21,Male,14 years,15000,40000,Single,yes,Good,6 hours,2 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+2,17,Male,MSC,30000,60000,Single,no,Good,8 hours,1 hours,no,yes,Normal,disagree,agree,yes,no,agree,disagree,yes
+3,25,Female,M.phill,30000,60000,Single,yes,V.Good,5 hours,1 hours,no,yes,Good,disagree,disagree,yes,no,agree,agree,yes
+4,21,Female,MSC,45000,60000,Single,no,V.Good,4 hours,1 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,yes
+5,17,Female,13 years,15000,20000,Single,yes,Good,8 hours,3 hours,yes,yes,Excellent,disagree,disagree,no,no,disagree,disagree,yes
+6,17,Female,14 years,30000,60000,Married,yes,Bad,3 hours,2 hours,yes,yes,Normal,agree,disagree,yes,no,agree,disagree,yes
+7,17,Female,13 years,15000,20000,Single,yes,Good,8 hours,1 hours,no,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+8,17,Male,14 years,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,agree,yes,yes,agree,agree,yes
+9,21,Female,MSC,15000,40000,Single,no,V.Good,6 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,disagreed,disagree,no
+10,29,Male,M.phill,15000,60000,Single,yes,Bad,8 hours,4 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+11,21,Male,MSC,30000,40000,Married,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+12,21,Male,14 years,30000,40000,Single,yes,Good,4 hours,1 hours,yes,no,Normal,disagree,disagree,yes,yes,disagree,disagree,no
+13,17,Female,14 years,15000,40000,Single,yes,Good,8 hours,2 hours,no,yes,Excellent,disagree,disagree,yes,no,agree,disagree,no
+14,17,Female,MSC,30000,40000,Single,yes,V.Good,8 hours,5 hours,yes,yes,Normal,disagree,agree,yes,no,agree,agree,yes
+15,21,Female,13 years,30000,40000,Single,yes,Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+16,21,Male,MSC,15000,60000,Married,yes,V.Good,4 hours,5 hours,no,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+17,21,Female,MSC,45000,20000,Single,yes,Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+18,21,Female,14 years,45000,60000,Single,yes,V.Good,5 hours,2 hours,no,yes,Excellent,disagree,disagree,yes,no,agree,agree,yes
+19,17,Female,14 years,45000,60000,Single,no,Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+20,25,Male,M.phill,30000,60000,Married,yes,V.Good,4 hours,1 hours,no,yes,Good,disagree,disagree,yes,no,disagreed,disagree,yes
+21,21,Male,14 years,45000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+22,17,Male,14 years,30000,60000,Single,no,Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,no,no,disagree,disagree,yes
+23,17,Female,14 years,45000,60000,Single,no,Very Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+24,17,Male,13 years,15000,40000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,agree,yes
+25,29,Male,PHD,30000,60000,Married,yes,V.Good,8 hours,5 hours,no,no,Excellent,agree,agree,no,yes,agree,disagree,no
+26,25,Female,MSC,45000,60000,Married,no,Bad,6 hours,3 hours,yes,no,Normal,agree,agree,yes,no,agree,disagree,yes
+27,21,Male,14 years,30000,60000,Single,yes,Very Good,8 hours,2 hours,no,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+28,21,Male,MSC,15000,60000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+29,21,Male,14 years,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+30,25,Male,MSC,30000,60000,Single,yes,Good,8 hours,3 hours,yes,yes,Normal,disagree,disagree,no,no,agree,agree,yes
+31,25,Male,MSC,15000,40000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,agree,yes,no,agree,agree,yes
+32,21,Female,MSC,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,agree,no
+33,17,Female,13 years,15000,40000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,agree,agree,yes,yes,agree,disagree,yes
+34,25,Female,M.phill,30000,40000,Single,yes,Good,6 hours,3 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+35,29,Female,M.phill,45000,60000,Married,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+36,21,Male,14 years,30000,60000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,disagree,disagree,yes
+37,21,Male,MSC,30000,40000,Single,yes,V.Good,8 hours,1 hours,yes,yes,Excellent,agree,disagree,no,no,disagree,disagree,yes
+38,25,Male,M.phill,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+39,21,Male,14 years,15000,40000,Single,yes,V.Good,8 hours,4 hours,yes,no,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+40,17,Male,13 years,30000,60000,Single,yes,Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+41,21,Male,13 years,15000,40000,Single,yes,Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+42,21,Male,MSC,30000,60000,Single,no,V.Good,3 hours,4 hours,no,yes,Normal,disagree,disagree,yes,no,disagree,disagree,no
+43,21,Female,MSC,30000,40000,Single,yes,V.Good,5 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,no
+44,21,Female,MSC,30000,60000,Single,yes,Bad,5 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+45,21,Female,MSC,30000,40000,Single,yes,Good,4 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,no
+46,17,Female,14 years,30000,60000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+47,25,Male,M.phill,15000,40000,Single,yes,V.Good,8 hours,3 hours,yes,yes,Normal,agree,agree,yes,yes,agree,disagree,yes
+48,21,Male,MSC,15000,60000,Single,yes,Bad,8 hours,3 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+49,21,Female,MSC,30000,60000,Single,yes,V.Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,no,yes,agree,agree,yes
+50,29,Male,M.phill,45000,60000,Single,yes,Good,8 hours,3 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,yes
+51,29,Male,M.phill,45000,60000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+52,29,Female,M.phill,30000,60000,Married,yes,V.Good,8 hours,2 hours,no,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+53,17,Male,14 years,15000,60000,Single,yes,V.Good,4 hours,5 hours,no,yes,Normal,disagree,disagree,yes,no,agree,disagree,no
+54,21,Female,MSC,30000,60000,Single,yes,V.Good,5 hours,1 hours,no,yes,Good,disagree,disagree,no,yes,agree,disagree,yes
+55,21,Male,MSC,15000,60000,Single,yes,V.Good,6 hours,2 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+56,21,Female,14 years,30000,40000,Single,yes,Good,8 hours,3 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+57,21,Female,14 years,45000,60000,Single,no,V.Good,5 hours,4 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+58,17,Male,MSC,30000,60000,Single,yes,Good,6 hours,3 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+59,21,Male,MSC,30000,40000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Excellent,disagree,disagree,yes,no,agree,disagree,yes
+60,21,Female,13 years,15000,60000,Single,yes,Good,5 hours,1 hours,no,no,Normal,disagree,disagree,no,no,disagreed,agree,no
+61,17,Male,14 years,15000,40000,Single,yes,Bad,8 hours,4 hours,no,no,Normal,disagree,disagree,yes,no,disagree,disagree,no
+62,21,Male,14 years,30000,40000,Single,yes,Very Good,5 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,disagree,disagree,yes
+63,29,Male,M.phill,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,agree,disagree,yes,no,agree,disagree,no
+64,21,Male,14 years,15000,40000,Single,yes,Good,6 hours,2 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+65,17,Male,MSC,30000,60000,Single,no,Good,8 hours,1 hours,no,yes,Normal,disagree,agree,yes,no,agree,disagree,yes
+66,25,Female,M.phill,30000,60000,Single,yes,V.Good,5 hours,1 hours,no,yes,Good,disagree,disagree,yes,no,agree,agree,yes
+67,21,Female,MSC,45000,60000,Single,no,V.Good,4 hours,1 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,yes
+68,17,Female,13 years,15000,20000,Single,yes,Good,8 hours,3 hours,yes,yes,Excellent,disagree,disagree,no,no,disagree,disagree,yes
+69,17,Female,14 years,30000,60000,Single,yes,Bad,3 hours,2 hours,yes,yes,Normal,agree,disagree,yes,no,agree,disagree,yes
+70,17,Female,13 years,15000,20000,Single,yes,Good,8 hours,1 hours,no,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+71,17,Male,14 years,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,agree,yes,yes,agree,agree,yes
+72,21,Female,MSC,15000,40000,Single,no,V.Good,6 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,disagree,disagree,no
+73,29,Male,M.phill,15000,60000,Single,yes,Bad,8 hours,4 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+74,21,Male,MSC,30000,40000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+75,21,Male,14 years,30000,40000,Single,yes,Good,4 hours,1 hours,yes,no,Normal,disagree,disagree,yes,yes,disagree,disagree,no
+76,17,Female,14 years,15000,40000,Single,yes,Good,8 hours,2 hours,no,yes,Excellent,disagree,disagree,yes,no,agree,disagree,no
+77,17,Female,MSC,30000,40000,Single,yes,Very Good,8 hours,5 hours,yes,yes,Normal,disagree,agree,yes,no,agree,agree,yes
+78,21,Female,13 years,30000,40000,Single,yes,Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+79,21,Female,MSC,15000,60000,Single,yes,V.Good,4 hours,5 hours,no,yes,Normal,disagree,disagree,yes,no,agreed,agree,no
+80,21,Female,MSC,45000,20000,Single,yes,Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+81,21,Female,14 years,45000,60000,Single,yes,V.Good,5 hours,2 hours,no,yes,Excellent,disagree,disagree,yes,no,agree,agree,yes
+82,17,Female,14 years,45000,60000,Single,no,Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+83,25,Male,M.phill,30000,60000,Married,yes,V.Good,4 hours,1 hours,no,yes,Good,disagree,disagree,yes,no,disagree,disagree,yes
+84,21,Male,14 years,45000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+85,17,Male,14 years,30000,60000,Single,no,Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,no,no,disagree,disagree,yes
+86,17,Female,14 years,45000,60000,Single,no,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+87,17,Male,13 years,15000,40000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agreed,agree,yes
+88,29,Male,PHD,30000,60000,Married,yes,V.Good,8 hours,5 hours,no,no,Excellent,agree,agree,no,yes,agree,disagree,no
+89,25,Female,MSC,45000,60000,Married,no,Bad,6 hours,3 hours,yes,no,Normal,agree,agree,yes,no,agree,disagree,yes
+90,21,Male,14 years,30000,60000,Single,yes,V.Good,8 hours,2 hours,no,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+91,21,Male,MSC,15000,60000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+92,21,Male,14 years,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+93,25,Male,MSC,30000,60000,Single,yes,Good,8 hours,3 hours,yes,yes,Normal,disagree,disagree,no,no,agree,agree,yes
+94,25,Male,MSC,15000,40000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,agree,yes,no,agree,agree,yes
+95,21,Female,MSC,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,agree,no
+96,17,Female,13 years,15000,40000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,agree,agree,yes,yes,agree,disagree,yes
+97,25,Female,M.phill,30000,40000,Single,yes,Good,6 hours,3 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+98,29,Female,M.phill,45000,60000,Married,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+99,21,Male,14 years,30000,60000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,disagree,disagree,yes
+100,21,Male,MSC,30000,40000,Single,yes,V.Good,8 hours,1 hours,yes,yes,Excellent,agree,disagree,no,no,disagree,disagree,yes
+101,25,Male,M.phill,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+102,21,Male,14 years,15000,40000,Single,yes,V.Good,8 hours,4 hours,yes,no,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+103,17,Male,13 years,30000,60000,Single,yes,Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+104,21,Male,13 years,15000,40000,Single,yes,Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+105,21,Male,MSC,30000,60000,Single,no,V.Good,3 hours,4 hours,no,yes,Normal,disagree,disagree,yes,no,disagree,disagree,no
+106,21,Female,MSC,30000,40000,Single,yes,V.Good,5 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,no
+107,21,Female,MSC,30000,60000,Single,yes,Bad,5 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+108,21,Female,MSC,30000,40000,Single,yes,Good,4 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,no
+109,17,Female,14 years,30000,60000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+110,25,Male,M.phill,15000,40000,Single,yes,V.Good,8 hours,3 hours,yes,yes,Normal,agree,agree,yes,yes,agree,disagree,yes
+111,21,Male,MSC,15000,60000,Single,yes,Bad,8 hours,3 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+112,21,Female,MSC,30000,60000,Single,yes,V.Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,no,yes,agree,agree,yes
+113,29,Male,M.phill,45000,60000,Single,yes,Good,8 hours,3 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,yes
+114,29,Male,M.phill,45000,60000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+115,29,Female,M.phill,30000,60000,Married,yes,V.Good,8 hours,2 hours,no,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+116,25,Male,M.phill,30000,60000,Married,yes,V.Good,4 hours,1 hours,no,yes,Good,disagree,disagree,yes,no,disagree,disagree,yes
+117,21,Male,14 years,45000,60000,Single,yes,Very Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+118,17,Male,14 years,30000,60000,Single,no,Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,no,no,disagree,disagree,yes
+119,17,Female,14 years,45000,60000,Single,no,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+120,17,Male,13 years,15000,40000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,agree,yes
+121,29,Male,PHD,30000,60000,Married,yes,V.Good,8 hours,5 hours,no,no,Excellent,agree,agree,no,yes,agree,disagree,no
+122,25,Female,MSC,45000,60000,Married,no,Bad,6 hours,3 hours,yes,no,Normal,agree,agree,yes,no,agree,disagree,yes
+123,21,Male,14 years,30000,60000,Single,yes,V.Good,8 hours,2 hours,no,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+124,21,Male,MSC,15000,60000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+125,21,Male,14 years,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+126,25,Male,MSC,30000,60000,Single,yes,Good,8 hours,3 hours,yes,yes,Normal,disagree,disagree,no,no,agree,agree,yes
+127,25,Male,MSC,15000,40000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,agree,yes,no,agree,agree,yes
+128,21,Female,MSC,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,agree,no
+129,17,Female,13 years,15000,40000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,agree,agree,yes,yes,agree,disagree,yes
+130,25,Female,M.phill,30000,40000,Single,yes,Good,6 hours,3 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+131,29,Female,M.phill,45000,60000,Married,yes,Very Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+132,21,Male,14 years,30000,60000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,disagree,disagree,yes
+133,21,Male,MSC,30000,40000,Single,yes,V.Good,8 hours,1 hours,yes,yes,Excellent,agree,disagree,no,no,disagree,disagree,yes
+134,25,Male,M.phill,30000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+135,21,Male,14 years,15000,40000,Single,yes,V.Good,8 hours,4 hours,yes,no,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+136,17,Male,13 years,30000,60000,Single,yes,Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+137,21,Male,13 years,15000,40000,Single,yes,Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+138,21,Male,MSC,30000,60000,Single,no,V.Good,3 hours,4 hours,no,yes,Normal,disagree,disagree,yes,no,disagree,disagree,no
+139,21,Female,MSC,30000,40000,Single,yes,V.Good,5 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,no
+140,21,Female,MSC,30000,60000,Single,yes,Bad,5 hours,1 hours,no,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+141,21,Female,MSC,30000,40000,Single,yes,Good,4 hours,2 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,no
+142,17,Female,14 years,30000,60000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,disagree,yes
+143,25,Male,M.phill,15000,40000,Single,yes,V.Good,8 hours,3 hours,yes,yes,Normal,agree,agree,yes,yes,agree,disagree,yes
+144,21,Male,MSC,15000,60000,Single,yes,Bad,8 hours,3 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+145,21,Female,MSC,30000,60000,Single,yes,V.Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,no,yes,agree,agree,yes
+146,29,Male,M.phill,45000,60000,Single,yes,Good,8 hours,3 hours,yes,yes,Good,disagree,disagree,yes,no,agree,disagree,yes
+147,29,Male,M.phill,45000,60000,Single,yes,V.Good,6 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+148,29,Female,M.phill,30000,60000,Married,yes,V.Good,8 hours,2 hours,no,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+149,21,3,14 years,15000,40000,Single,yes,V.Good,4 hours,3 hours,yes,yes,Normal,agree,agree,no,no,agree,disagree,yes
+150,25,Female,14 years,30000,60000,Married,yes,Good,4 hours,2 hours,yes,yes,Good,disagree,agree,no,yes,disagree,disagree,no
+151,21,Female,13 years,15000,40000,5,no,V.Good,3 hours,2 hours,no,no,Good,disagree,agree,yes,yes,agree,disagree,no
+152,nan,3,13 years,15000,40000,Single,yes,Good,3 hours,2 hours,no,no,Good,agree,agree,yes,yes,agree,disagree,yes
+153,21,Female,13 years,15000,40000,Single,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,agree,disagree,no
+154,21,Female,13 years,15000,20000,Single,yes,Good,3 hours,2 hours,no,no,Normal,disagree,agree,yes,yes,agree,disagree,yes
+155,17,Female,13 years,15000,40000,Married,no,Good,3 hours,2 hours,no,yes,Good,disagree,agree,yes,yes,agree,disagree,yes
+156,21,Female,13 years,15000,40000,5,no,Good,3 hours,1 hours,no,no,Good,disagree,agree,yes,no,agree,agree,yes
+157,17,Female,13 years,15000,40000,Single,no,Good,3 hours,2 hours,yes,yes,Good,agree,agree,no,yes,agree,agree,yes
+158,21,Female,13 years,15000,20000,Single,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,yes,yes,agree,disagree,yes
+159,25,Male,14 years,15000,40000,Married,no,Good,3 hours,2 hours,no,no,Good,agree,agree,no,yes,agree,disagree,yes
+160,21,Male,13 years,15000,40000,Single,yes,Good,3 hours,2 hours,no,no,Good,disagree,disagree,no,yes,agree,disagree,yes
+161,21,Female,13 years,15000,40000,Married,yes,Good,3 hours,3 hours,yes,no,Normal,disagree,disagree,no,yes,disagree,disagree,yes
+162,21,3,13 years,15000,40000,Married,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,agree,disagree,yes
+163,17,Female,13 years,15000,40000,Single,no,Good,4 hours,2 hours,no,no,Good,agree,agree,no,yes,disagree,disagree,yes
+164,21,Male,13 years,15000,20000,5,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,agree,agree,yes
+165,17,Female,13 years,15000,20000,Married,yes,Good,3 hours,2 hours,no,no,Good,agree,agree,no,yes,agree,agree,yes
+166,21,Male,13 years,30000,40000,Single,no,V.Good,3 hours,2 hours,no,no,Good,disagree,disagree,no,no,agree,disagree,no
+167,21,Female,13 years,15000,40000,Single,yes,V.Good,3 hours,2 hours,no,no,Good,agree,agree,no,no,agree,disagree,yes
+168,21,Male,13 years,15000,60000,Single,yes,Very Good,3 hours,2 hours,no,no,Good,agree,agree,no,yes,agree,agree,yes
+169,21,Female,13 years,15000,20000,Married,no,Good,3 hours,1 hours,no,no,Good,disagree,agree,no,no,agree,agree,yes
+170,21,3,13 years,15000,40000,5,no,Good,3 hours,2 hours,no,no,Good,agree,agree,no,yes,agree,disagree,yes
+171,17,Female,13 years,15000,40000,Married,yes,Good,3 hours,2 hours,yes,yes,Good,agree,agree,no,yes,agree,agree,yes
+172,17,Male,13 years,15000,60000,Married,no,Good,3 hours,2 hours,no,no,Good,agree,agree,yes,yes,agree,agree,yes
+173,21,Female,13 years,15000,40000,Single,yes,Good,3 hours,2 hours,no,no,Normal,agree,agree,yes,yes,agree,agree,no
+174,25,Female,13 years,15000,20000,Single,yes,Good,3 hours,1 hours,no,no,Good,disagree,agree,no,yes,agree,disagree,yes
+175,25,Female,13 years,15000,40000,Married,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,disagree,disagree,no
+176,21,Male,14 years,15000,40000,Single,no,V.Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,agree,disagree,no
+177,21,Male,14 years,15000,40000,Married,yes,V.Good,3 hours,1 hours,no,no,Good,disagree,disagree,no,yes,agree,disagree,yes
+178,25,Male,13 years,15000,40000,5,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,agree,disagree,no
+179,21,Male,13 years,30000,20000,Married,yes,Good,3 hours,2 hours,no,no,Normal,disagree,disagree,no,yes,agree,disagree,yes
+180,nan,Male,13 years,30000,40000,Married,yes,Good,3 hours,2 hours,no,no,Good,disagree,agree,yes,yes,agree,disagree,yes
+181,17,Female,13 years,15000,40000,5,no,Good,3 hours,1 hours,no,no,Good,disagree,agree,yes,yes,agree,agree,yes
+182,21,3,14 years,15000,40000,Single,yes,Very Good,4 hours,3 hours,yes,yes,Normal,agree,agree,no,no,agree,agree,yes
+183,25,3,14 years,30000,60000,Married,no,Good,4 hours,2 hours,yes,yes,Good,disagree,agree,no,yes,agree,disagree,yes
+184,21,Female,13 years,15000,40000,Married,no,V.Good,3 hours,2 hours,no,no,Good,disagree,agree,yes,yes,agree,disagree,yes
+185,17,3,13 years,15000,40000,Single,yes,Good,3 hours,2 hours,no,no,Good,agree,agree,yes,yes,agree,disagree,yes
+186,21,Female,13 years,15000,40000,5,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,disagree,disagree,yes
+187,21,Female,13 years,15000,20000,Married,yes,Good,3 hours,2 hours,no,no,Normal,disagree,agree,yes,yes,agree,disagree,yes
+188,nan,Female,13 years,15000,400000,Single,no,Good,3 hours,2 hours,no,yes,Good,disagree,agree,yes,yes,disagree,disagree,yes
+189,21,Female,13 years,15000,40000,Married,no,Good,3 hours,1 hours,no,no,Good,disagree,agree,yes,no,agree,agree,yes
+190,17,Female,13 years,15000,40000,Married,no,Good,3 hours,2 hours,yes,yes,Good,agree,agree,no,yes,agree,agree,yes
+191,21,Female,13 years,15000,20000,Married,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,yes,yes,agree,disagree,no
+192,25,Female,14 years,15000,40000,Married,no,Good,3 hours,2 hours,no,no,Good,agree,agree,no,yes,agree,disagree,yes
+193,21,Female,13 years,15000,40000,Single,yes,Good,3 hours,2 hours,no,no,Good,disagree,disagree,no,yes,agree,agree,yes
+194,29,Male,M.phill,15000,60000,Single,yes,Bad,8 hours,4 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+195,21,Male,MSC,30000,40000,Single,yes,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,yes,agree,agree,yes
+196,21,Male,14 years,30000,40000,Single,yes,Good,4 hours,1 hours,yes,no,Normal,disagree,disagree,yes,yes,disagree,disagree,no
+197,17,Female,14 years,15000,40000,Single,yes,Good,8 hours,2 hours,no,yes,Excellent,disagree,disagree,yes,no,agree,disagree,no
+198,17,Female,MSC,30000,40000,Married,yes,V.Good,8 hours,5 hours,yes,yes,Normal,disagree,agree,yes,no,agree,agree,yes
+199,nan,Female,13 years,30000,40000,Single,yes,Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+200,21,Female,MSC,15000,60000,Single,yes,V.Good,4 hours,5 hours,no,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+201,21,Female,MSC,45000,20000,Single,yes,Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,no
+202,21,Female,14 years,45000,600000,Single,yes,V.Good,5 hours,2 hours,no,yes,Excellent,disagree,disagree,yes,no,agree,agree,yes
+203,17,Female,14 years,45000,60000,Single,no,Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+204,25,Male,M.phill,30000,60000,Married,yes,V.Good,4 hours,1 hours,no,yes,Good,disagree,disagree,yes,no,disagree,disagree,yes
+205,21,Male,14 years,45000,60000,Single,yes,V.Good,8 hours,2 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,disagree,yes
+206,17,Male,14 years,30000,60000,Single,no,Good,5 hours,1 hours,yes,yes,Normal,disagree,disagree,no,no,disagree,disagree,yes
+207,17,Female,14 years,45000,60000,Single,no,V.Good,6 hours,1 hours,yes,yes,Normal,disagree,disagree,yes,no,agree,agree,yes
+208,17,Female,13 years,15000,40000,Single,yes,Good,3 hours,2 hours,no,no,Good,agree,agree,yes,yes,agree,disagree,yes
+209,21,Female,13 years,15000,40000,Single,no,Good,3 hours,2 hours,no,no,Good,disagree,agree,no,yes,agree,disagree,no
+210,21,3,13 years,15000,20000,Single,yes,Good,3 hours,2 hours,no,no,Normal,disagree,agree,yes,yes,agree,disagree,yes
